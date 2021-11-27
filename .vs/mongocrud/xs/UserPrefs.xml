@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BFDFC53E-7070-4804-8648-CB4F18A8C2FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.mongocrud PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mongocrud/Controllers/CategoriesController.cs">
+    <Files>
+      <File FileName="mongocrud/Controllers/ProductsController.cs" Line="67" Column="17" />
+      <File FileName="mongocrud/Repositories/MongoDbProductRepository.cs" Line="43" Column="53" />
+      <File FileName="mongocrud/Repositories/IProductRepository.cs" Line="12" Column="37" />
+      <File FileName="mongocrud/Controllers/CategoriesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="mongocrud" expanded="True">
+            <Node name="mongocrud" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoriesController.cs" selected="True" />
+              </Node>
+              <Node name="Dtos" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Settings" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/koraytug/Koray/WebProjects/mongo_crud_csharp/mongocrud/mongocrud/Repositories/MongoDbProductRepository.cs" relfile="mongocrud/Repositories/MongoDbProductRepository.cs" line="101" column="1" />
+      <Breakpoint file="/Users/koraytug/Koray/WebProjects/mongo_crud_csharp/mongocrud/mongocrud/Controllers/ProductsController.cs" relfile="mongocrud/Controllers/ProductsController.cs" line="69" column="1" />
+      <Breakpoint file="/Users/koraytug/Koray/WebProjects/mongo_crud_csharp/mongocrud/mongocrud/Controllers/ProductsController.cs" relfile="mongocrud/Controllers/ProductsController.cs" line="85" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
