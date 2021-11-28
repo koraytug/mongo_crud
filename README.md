@@ -66,7 +66,7 @@ The REST API is described below.
 
 `PUT /product/:id`
 
-    curl --location --request PUT 'http://localhost:5000/products/72030445-c50a-47ce-a95b-4c12daf578de'
+    http://localhost:5000/products/72030445-c50a-47ce-a95b-4c12daf578de
 
 ### Body
 
