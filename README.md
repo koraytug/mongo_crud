@@ -20,9 +20,21 @@ This is a example of REST API to which one use mongo db and redis caching.
     
     Docker ps   => to verify if it is running
 
+## Settings
+
+For setting up mongoDb username and password can configure in MondoDbSettings.cs file under the Settings folder.
+
+To use local db please use  
+`return $"mongodb://{Host}:{Port}";`
+
+To use cloud version of mongo db please use your informations with the connection string below
+`return "mongodb+srv://koraytug:<********>@cluster0.ey43w.mongodb.net/TESTAPP?retryWrites=true&w=majority";`
+
+both settings are existing in the file.
+
 # REST API
 
-The REST API is described below. 
+The REST API is described below.
 
 ## Get list of products
 
