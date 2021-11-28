@@ -14,7 +14,8 @@
 
 
                 // for cloud db usage please use this connection string
-                return "mongodb+srv://koraytug:Welcome1@cluster0.ey43w.mongodb.net/TESTAPP?retryWrites=true&w=majority";
+                // <********> for sample please use own user name and password
+                return "mongodb+srv://koraytug:<********>@cluster0.ey43w.mongodb.net/TESTAPP?retryWrites=true&w=majority";
             }
         }
     }
